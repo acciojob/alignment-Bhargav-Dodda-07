@@ -2,19 +2,19 @@
 table{
 	width:100%;
 	border-collapse: collapse;
-	border: 1px solid black
+	border: 1px inset rgb(0,0,0)
 }
 
  #table-2{
 	height:100px;
 	 border-collapse: collapse;
 	 border: 1px inset rgb(0,0,0);
-	 cell-padding: 1px;
+	 
 }
 
 #table-3{
 	height:100px;
 	 border-collapse: collapse;
 	 border: 1px inset rgb(0,0,0);
-	 cell-padding: 1px;
+	 
 }
