@@ -1,14 +1,14 @@
 /*  your css code here. If applicable */
 table{
 	width:100%;
-	border-collapse: collapse;
+	
 	border: 1px solid rgb(0,0,0)
 	padding:1px;
 }
 
  #table-2{
 	height:100px;
-	 border-collapse: collapse;
+	 
 	 border: 1px solid rgb(0,0,0);
 	 padding:1px;
 	 
@@ -17,7 +17,7 @@ table{
 #table-3{
 	height:100px;
 	padding:1px;
-	 border-collapse: collapse;
+	 
 	 border: 1px solid rgb(0,0,0);
 	 
 }
