@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+table{
+	width:100%;
+	border-collapse: collapse;
+	border: 1px solid black
+}
+
+ #table-2{
+	height:100px;
+	 border-collapse: collapse;
+	 border: 1px solid black;
+	 cell-padding: 1px;
+}
+
+#table-3{
+	height:100px;
+	 border-collapse: collapse;
+	 border: 1px solid black;
+	 cell-padding: 1px;
+}
